@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143392625536",
+    "project_id": "illu-app",
+    "storage_bucket": "illu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143392625536:android:3db97d50777ef30c812765",
+        "android_client_info": {
+          "package_name": "com.example.illu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143392625536-5ds64v3bj1gktpvlk99h4fqs5n5se24f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDTlAK7PBFECvBs69BHM4PT9RNaqZJ14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143392625536-5ds64v3bj1gktpvlk99h4fqs5n5se24f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
